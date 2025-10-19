@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[14]:
-
-
 from tkinter import *
 from tkinter import ttk, messagebox as msg
 from PIL import Image, ImageTk
@@ -213,16 +207,4 @@ Label(root, text="Developed by Team Keerthi © 2025", font=("Helvetica", 9, "ita
       bg="#ffffff", fg="#444").place(relx=0.5, rely=0.96, anchor="center")
 
 root.mainloop()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
 
